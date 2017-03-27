@@ -3,7 +3,7 @@ Learning Techniques for Developers
 
 ## I don't even know where to start.
 
-1. Start by looking back at your lessons - the material in your assignments is covered in past assignments.
+1. Start by [looking back at your lessons](https://github.com/den-wdi-3/schedule/tree/master) - the material in your assignments is covered in past assignments.
 2. Ask a classmate - they're likely to get stuck on the same issues.
 3. If you don't know how to phrase what you're looking for, Google the closest thing you can think of (i.e. "Add div to page in JS"). You will likely start to discover key words that can then be Googled again (i.e. "Append, DOM, etc"). 
 
@@ -16,7 +16,7 @@ Learning Techniques for Developers
     - [JS Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index)
     - [JS Functions](https://www.w3schools.com/js/js_functions.asp)
     - [JS Callbacks Explained with Minions (sorry)](https://medium.freecodecamp.com/javascript-callbacks-explained-using-minions-da272f4d9bcd)
-2. Look back at your classes. Most of the answers have been covered in previous lessons.
+2. [Look back at your classes.](https://github.com/den-wdi-3/schedule/tree/master) Most of the answers have been covered in previous lessons.
 
 ## This is taking too long.
 
