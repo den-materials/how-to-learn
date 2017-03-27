@@ -1,4 +1,4 @@
-# how-to-learn
+# How to Learn
 Learning Techniques for Developers
 
 ## I don't even know where to start.
@@ -17,6 +17,10 @@ Learning Techniques for Developers
     - [JS Functions](https://www.w3schools.com/js/js_functions.asp)
     - [JS Callbacks Explained with Minions (sorry)](https://medium.freecodecamp.com/javascript-callbacks-explained-using-minions-da272f4d9bcd)
 2. Look back at your classes. Most of the answers have been covered in previous lessons.
+
+## This is taking too long.
+
+Unfortunately, a certain ammount of time is needed to get good at development - you will have to fail many times to start succeeding. Try to not look at the time you spend fixing bugs as a "waste" - it is a neccessary step in learning.
 
 ## I'm still stuck.
 
