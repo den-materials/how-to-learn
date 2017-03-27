@@ -10,13 +10,24 @@ Learning Techniques for Developers
 ## I can't remember how to __________
 
 1. Use Google to find lists of common syntax and practices. For instance:
+    - [Basic Terminal Commands](https://github.com/0nn0/terminal-mac-cheatsheet)
     - [Basic Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
     - [HTML Elements](https://www.w3schools.com/tags/)
     - [CSS Properties](https://www.w3schools.com/cssref/)
     - [JS Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index)
-    - [JS Functions](https://www.w3schools.com/js/js_functions.asp)
+    - [Anatomy of a JS Function](https://danmartensen.svbtle.com/the-anatomy-of-a-javascript-function)
     - [JS Callbacks Explained with Minions (sorry)](https://medium.freecodecamp.com/javascript-callbacks-explained-using-minions-da272f4d9bcd)
+    - [Anatomy of Code](http://www.anatomyofcode.com/)
 2. [Look back at your classes.](https://github.com/den-wdi-3/schedule/tree/master) Most of the answers have been covered in previous lessons.
+
+### Anatomy of HTML
+![Anatomy of HTML](img/AnatomyofHTML.png)
+
+### Anatomy of CSS
+![Anatomy of CSS](img/AnatomyofCSS.jpg)
+
+### Anatomy of a JS Function
+![Anatomy of a JS Function](img/AnatomyofaFunction.png)
 
 ## This is taking too long.
 
