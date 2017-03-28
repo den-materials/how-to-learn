@@ -27,7 +27,7 @@ Learning Techniques for Developers
 ![Anatomy of CSS](img/AnatomyofCSS.jpg)
 
 ### Anatomy of a JS Function
-![Anatomy of a JS Function](img/AnatomyofaFunction.png)
+![Anatomy of a JS Function](img/AnatomyofAFunction.png)
 
 ## This is taking too long.
 
