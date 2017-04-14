@@ -38,3 +38,21 @@ Unfortunately, a certain ammount of time is needed to get good at development - 
 1. **Take a break.** Walking away from your work to eat, exercise, or relax will allow your brain to 'reset'.
 2. **Prioritize your health over progress.** Lack of sleep, poor health, and lingering anxiety will cause you to learn slower and remember less. Even if you're feeling behind, taking care of yourself first, and you'll be able to catch up faster.
 
+## Different Learning Styles
+
+Below you will find some resources that match with specific learning styles.  Find one that matches your strengths and needs.
+
+### I learn by watching videos
+
+- [Command line Youtube series](https://www.youtube.com/watch?v=-vsVCqnJHgw&list=PLCHnubFzFwjLDKwWQhH3BlGA9OasLKIFl)
+- [Comprehensive set of Javascript concept Youtube videos](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
+
+### I learn by reviewing solid visuals
+
+### I learn by tutorials
+
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+
+### I learn by practicing code through projects
+
+- [FreeCodeCamp](https://www.freecodecamp.com)
